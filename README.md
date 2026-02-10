@@ -101,4 +101,5 @@ npm run dev
 ```
 
 
-⭐ Acknowledgement This project was developed as part of my learning journey in AI-powered document systems and Retrieval-Augmented Generation. Inspired by real-world applications like AI document assistants and knowledge bots. If you like this project, feel free to ⭐ star the repository! Happy Learning 😊
+⭐ Acknowledgement This project was developed as part of my learning journey in AI-powered document systems and Retrieval-Augmented Generation. Inspired by real-world applications like AI document assistants and knowledge bots.
+If you like this project, feel free to ⭐ star the repository! Happy Learning 😊
